@@ -1,0 +1,11 @@
+Student Name,Subject,Classes Held,Classes Attended,Attendance %,Status
+Rishi,Python,50,30,60.0,Shortage
+Rishi,DBMS,50,30,60.0,Shortage
+Rishi,Maths,50,30,60.0,Shortage
+Pranay,Python,50,30,60.0,Shortage
+Pranay,Maths,35,12,34.29,Shortage
+Pranay,Maths,45,35,77.78,Safe
+Ananya,DBMS,50,42,84.0,Safe
+Annanya,DBMS,50,40,80.0,Safe
+Keerthana,Maths,50,44,88.0,Safe
+jayanthi,Office,100,80,80.0,Safe
